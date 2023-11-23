@@ -54,6 +54,7 @@ Below is a simple  table comparing Minikube, K3d, and Kind based on certain aspe
 
 ### ***KIND*** basic commands and demo
 
+![](../.data/kind_showcase.gif)
 
 | Command                                           | Description                                           |
 |---------------------------------------------------|-------------------------------------------------------|
