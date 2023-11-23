@@ -79,6 +79,7 @@ These commands cover the basics of creating, managing, and interacting with Kind
 
 ### ***K3d*** basic commands and demo
 
+![](../.data/k3d_showcase.gif)
 
 
 | Command                                         | Description                                   |
