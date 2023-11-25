@@ -1,7 +1,7 @@
 # ArgoCD: installation and GUI access
 
 ## Official Documentation:
-Please find ArgoCD Quickstart guid via https://argo-cd.readthedocs.io/en/stable/getting_started/
+Please find ArgoCD Quickstart guide via https://argo-cd.readthedocs.io/en/stable/getting_started/
 
 ## Quickstart installation guide:
 
