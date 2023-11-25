@@ -24,7 +24,7 @@ Please refer to the following guid how to retrieve ArgoCD password and open the 
 
 ![](../.data/argocd_gui_access.gif)
 
-Now use decoded password (without `%`in the end of decoded string) to access GUI as it is shown on the screenshot below:
+Now use decoded password (without `%` in the end of decoded string) to access GUI as it is shown in the screenshot below:
 
 ![](../.data/argocd_pass.jpeg)
 
