@@ -20,7 +20,7 @@ Check pods status using `kubectl get pods -n argocd`, all pods should be in the 
 
 ## Accessing the ArgoCD GUI
 
-Please refer to the following guid how to retrieve ArgoCD password and open the GUI
+Please refer to the following guide how to retrieve ArgoCD password and open/access the GUI
 
 ![](../.data/argocd_gui_access.gif)
 
