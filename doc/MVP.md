@@ -41,7 +41,7 @@ ArgoCD provides several ways to create and manage applications. Here are the pri
 -   **Example:** [ArgoCD Web UI](https://argoproj.github.io/argo-cd/getting_started/#2-access-the-argo-cd-ui)
 
 
-## Which way best fits for you?
+## Which way fits best for you?
 
 Choose the method that best fits your `workflow` and `preferences`. Arguably, the **declarative** approach using Git repositories aligns closely with the GitOps philosophy promoted by ArgoCD.
 
