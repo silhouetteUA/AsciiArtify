@@ -90,4 +90,10 @@ In summary, the declarative approach in ArgoCD aligns well with the principles o
 
 ## Showcase: Declarative approach
 
+![](../.data/declarative.gif)
 
+
+Screenshot below shows that APP is in SYNC (from GUI perspective)
+
+
+![](../.data/declarative_argocd.jpeg)
