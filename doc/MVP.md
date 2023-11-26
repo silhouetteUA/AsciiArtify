@@ -105,4 +105,4 @@ Screenshot below shows that APP is in SYNC (from GUI perspective)
 
 ![](../.data/cli_showcase.gif)
 
-** Thanks for your participation, your AsciiArtify team**
+**Thanks for your participation, your AsciiArtify team**
