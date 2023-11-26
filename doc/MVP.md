@@ -97,3 +97,12 @@ Screenshot below shows that APP is in SYNC (from GUI perspective)
 
 
 ![](../.data/declarative_argocd.jpeg)
+
+
+
+
+## Showcase: CLI approach
+
+![](../.data/cli_showcase.gif)
+
+** Thanks for your participation, your AsciiArtify team**
