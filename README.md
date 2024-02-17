@@ -1,4 +1,5 @@
 # AsciiArtify
-dev-ops course: week 4, practice 4
 
-![CONCEPT](/doc/Concept.md)
+[Concept](/doc/Concept.md)
+[Minimum Viable Product](/doc/MVP.md)
+[Proof of Concept](/doc/POC.md)
