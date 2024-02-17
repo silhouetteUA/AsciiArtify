@@ -1,5 +1,5 @@
 # AsciiArtify
 
-[Concept](/doc/Concept.md)
-[Minimum Viable Product](/doc/MVP.md)
-[Proof of Concept](/doc/POC.md)
+[Concept](/doc/Concept.md) <br>
+[Minimum Viable Product](/doc/MVP.md) <br>
+[Proof of Concept](/doc/POC.md) <br>
